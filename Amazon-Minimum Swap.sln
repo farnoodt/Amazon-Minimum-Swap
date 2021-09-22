@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31624.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Amazon-Minimum Swap", "Amazon-Minimum Swap\Amazon-Minimum Swap.csproj", "{32BD2964-66AE-41F7-ADBC-BD26CA6B2209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{32BD2964-66AE-41F7-ADBC-BD26CA6B2209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32BD2964-66AE-41F7-ADBC-BD26CA6B2209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32BD2964-66AE-41F7-ADBC-BD26CA6B2209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32BD2964-66AE-41F7-ADBC-BD26CA6B2209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26CF0CFB-276E-4D92-A0AA-FAB7B9CD5194}
+	EndGlobalSection
+EndGlobal
